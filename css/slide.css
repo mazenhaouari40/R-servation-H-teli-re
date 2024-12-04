@@ -1,0 +1,131 @@
+:root{
+    --maincolor:#0000ff;
+}
+input[type="submit"]
+{
+	background-color:#0000ff;
+	text-align:center;
+	border:none;
+	color:#fff;
+	padding:10px 40px;
+	font-family:Raleway;
+	font-size:18px;
+	border-radius:50px;
+	outline:none;
+	cursor:pointer;
+}
+/*slide*/
+.menu-container .menu-item span{
+	position:absolute;
+	right:30px;
+	top:30px;
+	background-color:#0000ff;
+	width:50px;
+	height:50px;
+	border-radius:50%;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	color:#fff;
+	font-weight:bold;
+}
+
+
+
+.hotel .head h1{
+	margin:0;
+	color:red;
+}
+
+.hotel .head{
+	display:flex;
+	justify-content:space-between;
+	padding:0px 40px;
+	font-family:Raleway;
+}
+.hotel .head a{
+	background-color:var(--main-color);
+	text-decoration:none;
+	color:#fff;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	padding:10px 30px;
+	border-radius:50px;
+}
+
+.hotel{
+	background:white;
+	text-align:center;
+	padding:30px;
+	padding-top:50px;
+}
+
+.hotel .menu-container{
+	display:flex;
+	flex-wrap:wrap;
+	margin-top:50px;
+	border:1px solid ;
+	justify-content:space-between;
+}
+
+.hotel .menu-container .menu-item{
+	text-align:center;
+	background-color:#fff;
+	position:relative;
+	border-radius:5px;
+	padding:20px 30px;
+	font-family:Raleway;
+	margin-bottom:25px;
+	box-shadow:none;
+	margin:auto;
+	width:70%;
+}
+
+
+
+.menu-container{
+	display:flex;
+	flex-wrap:wrap;
+	margin-top:100px;
+	justify-content:space-between;
+	padding:20px 60px;
+}
+
+.menu-container .menu-item img{
+	width:100%;
+}
+
+.menu-container .menu-item{
+	text-align:center;
+	background-color:#fff;
+	position:relative;
+	border-radius:5px;
+	border:1px solid;
+	padding:20px 30px;
+	font-family:Raleway;
+	margin-bottom:25px;
+	box-shadow:0 0 11px 0px #ccc;
+	transition:.3s;
+	width:calc(80% / 3);
+}
+
+
+
+.menu-container .menu-item p{
+	color:#9c9c9c;
+}
+
+
+
+
+.menu-container .menu-item a{
+	text-decoration:none;
+	color:#fff;
+	background-color:blue;
+	padding:10px 30px;
+	display:inline-block;
+	margin:10px 0;
+	border-radius:50px;
+}
+

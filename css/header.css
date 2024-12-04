@@ -1,0 +1,50 @@
+/*header*/
+
+header{
+        background-color:#2c363c;
+		justify-content:center;	
+		height: 60px ;
+		background-size: cover;
+		background-position: center;
+}
+.logo a{
+color:#aff;
+padding:5px 20px;
+margin-top:14px;
+border:1px solid #aff;
+position: absolute;
+text-transform: uppercase;
+text-decoration: none;
+font-weight: 900;
+text-shadow: rgba(0,0,0,0.7);
+}
+.logo span{
+    color:rgb(238,56,11);
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+ul{
+    list-style:none;
+    float:right;
+    display:flex;
+    margin-top:20px;
+}
+ul li a{
+text-decoration:none;
+color:#fff;
+padding:10px 20px;
+text-transform: uppercase;
+border:1px solid transparent;
+margin:10px;
+font-weight: 5OO;
+transition:0.6s ease;
+}
+
+ul li a:hover{
+    background: #fff;
+    color:#000;
+}
+
+
+

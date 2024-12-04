@@ -1,0 +1,51 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+.signup-form input[type=submit]
+{
+	background-color:#09ff00;
+	border:none;
+	color:#fff;
+	cursor:pointer;
+}
+
+
+.signup-form{
+	padding:50px;
+	text-align:center;
+	font-family:Raleway;
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform:translate(-50%,-50%);
+}
+
+.signup-form div{
+	margin-bottom:25px;
+}
+
+.signup-form div input{
+	outline:none;
+	padding:12px 20px;
+	font-size:16px;
+	border:1px solid #eaeaea;
+	border-radius:20px;
+	width:350px;
+	font-family:Raleway;
+	transition:.3s;
+}
+
+.signup-form input:focus{
+	border-color:var(--main-color);;
+}
+.t1{
+    font-size: 15px;
+}
+
+
