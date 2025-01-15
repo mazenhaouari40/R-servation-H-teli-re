@@ -35,18 +35,19 @@ include "header.php";
 		
 <p> Ce site est utilisée pour traiter les réservations en ligne en toute sécurité<br>
 
-Vous pouvez  réserver en direct sur le site web « hhhh ism site hhhh » de l’hôtel.<br>
+Vous pouvez  réserver en direct sur le site web « Palm resort » de l’hôtel.<br>
 
-Vous pouvez y voir :les différentes chambres proposées,leurs disponibilités selon les dates,<br> 
-			les prix,<br>
-			les services <br>
-			et extra que vous offrez.<br>
-Vous pouvez le faire dans les langues principales, 24 heures sur 24<br>
+Vous pouvez voir :<br>
+* les différentes chambres proposées <br>
+* leurs disponibilités selon les dates<br> 
+* les prix <br>
+* les services <br>
+Vous pouvez le faire dans les langues principales, 24 heures sur 24.<br>
 De plus notre site offre la pssibilite de choisir parmi plusieurs categories :<br> 		
-        	chambre de luxe<br>
-			chambre simple<br>
-			chambre speciale	<br>	
-			avec multiple choix dans chaque ategorie.<br>
+* chambre de luxe<br>
+* chambre simple<br>
+* chambre speciale<br>	
+avec multiple choix dans chaque categorie.<br>
 
 Notre site garentie les prix , le confort, le gain de temps , sans deplacement<br>
 Pour cela notre site est le bon choix !!!<br>
