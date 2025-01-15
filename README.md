@@ -1,5 +1,4 @@
 
-Voici une version corrigée et améliorée de votre description :
 
 Ce projet est une application de gestion des réservations hôtelières qui permet aux utilisateurs de réserver des chambres et de gérer leurs réservations. Notre site propose également la possibilité de choisir parmi plusieurs catégories de chambres :
 
